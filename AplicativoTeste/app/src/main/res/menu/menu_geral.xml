@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:onClick="TelaCadastroMedico"
+        android:title="Cadastrar Médico" />
+    <item
+        android:onClick="TelaCadastroPaciente"
+        android:title="Cadastrar Paciente" />
+    <item
+        android:onClick="TelaListaMedicos"
+        android:title="Médicos Disponiveis" />
+    <item
+        android:onClick="TelaListaPacientes"
+        android:title="Consultas Marcadas" />
+    <item
+        android:onClick="TelaMenu"
+        android:title="Menu" />
+</menu>

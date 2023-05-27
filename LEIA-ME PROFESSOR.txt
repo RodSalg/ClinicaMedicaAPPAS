@@ -1,0 +1,18 @@
+Olá, professor. 
+
+Aqui o código está nesta pasta chamada aplicativoTeste. Acontece que eu fui fazer alguns testes e sem querer acabei fazendo o próprio projeto nesta página e não soube como fazer o Refactor no nome da pasta, mas o aplicativo está funcionando normalmente.
+
+Além da pasta coloquei neste winrar o próprio APK em si para a instalação em um dispositivo Android.
+
+Também gravei um vídeo, professor. Mostrando todas as funcionalidades e ele sendo executado normalmente. O video foi 
+publicado no youtube e está no seguinte link: 
+https://www.youtube.com/watch?v=MdduYnmZjPc&ab_channel=ThiagoRodrigoMonteiroSalgado
+
+ou o senhor pode assisti-lo como arquivo, eu o disponibilizei aqui dentro do winrar.
+
+
+Obrigado, professor.
+
+Atenciosamente,
+
+Thiago Rodrigo Monteiro Salgado - 21954456
